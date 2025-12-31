@@ -1,7 +1,7 @@
 {
-  "name": "tugasakhir-task-1",
+  "name": "webdriverio test",
   "version": "1.0.0",
-  "description": "untuk tugas akhir task 1",
+  "description": "webdriverio test",
   "main": "index.js",
   "scripts": {
     "test": "npx run ./wdio.conf.js",
